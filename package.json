@@ -1,0 +1,26 @@
+{
+  "name": "ccjmne-pfp",
+  "version": "0.9.0",
+  "description": "Generator project for my profile picture and personal logo",
+  "main": "index.ts",
+  "scripts": {
+    "test": "nil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccjmne/ccjmne-pfp.git"
+  },
+  "keywords": [
+    "pfp",
+    "profile",
+    "picture",
+    "svg",
+    "logo"
+  ],
+  "author": "Eric NICOLAS <ccjmne@gmail.com> (ccjmne)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ccjmne/ccjmne-pfp/issues"
+  },
+  "homepage": "https://github.com/ccjmne/ccjmne-pfp#readme"
+}
